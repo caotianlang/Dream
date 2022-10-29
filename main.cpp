@@ -1,6 +1,11 @@
 #include <iostream>
+#include "DreamKeywords.h"
 
-int main ()
+int main (int argc, char* argc[])
 {
-    std::cout << "hello" << std::endl;
+    // todo multi-file compile
+    if (argc < 1)
+    {
+        
+    }
 }
